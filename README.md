@@ -14,4 +14,4 @@ LaTex Renders, die den Output von Sympy nutzen um das Ergebnis schöner darzuste
 
 # How To Use
 Man braucht irgendeine IDE (VSCode, Jupyter, ...) und Sympy.
-Sympy installieren: '''pip install sympy'''
+Sympy installieren: ```pip install sympy```
