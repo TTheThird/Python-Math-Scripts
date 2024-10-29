@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730230573.97129 "c:/Users/krono/Documents/GitHub/Python-Math-Scripts/tex_stuff/exercise1.tex" "exercise1.pdf" "exercise1" 1730230574.59461 0
-  "c:/Users/krono/Documents/GitHub/Python-Math-Scripts/tex_stuff/exercise1.tex" 1730230573 2104 b8b71bc1b641da3c63aafeb95a0b8123 ""
+["pdflatex"] 1730230710.6986 "c:/Users/krono/Documents/GitHub/Python-Math-Scripts/tex_stuff/exercise1.tex" "exercise1.pdf" "exercise1" 1730230711.31467 0
+  "c:/Users/krono/Documents/GitHub/Python-Math-Scripts/tex_stuff/exercise1.tex" 1730230710 2097 208b70b032ea8d0a857ce0d6ac62c1fe ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730202195 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1730200929 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1730200929 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -48,8 +48,8 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730204968 5521136 47e49b84c41d5ab3414c7e2d0ef6eb2b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730205159 3325936 8013568b7d0dabe462df9419539ce3a7 ""
   "c:/texlive/2024/texmf.cnf" 1730204951 713 e69b156964470283e0530f5060668171 ""
-  "exercise1.aux" 1730230574 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "exercise1.tex" 1730230573 2104 b8b71bc1b641da3c63aafeb95a0b8123 ""
+  "exercise1.aux" 1730230711 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "exercise1.tex" 1730230710 2097 208b70b032ea8d0a857ce0d6ac62c1fe ""
   (generated)
   "exercise1.aux"
   "exercise1.log"
