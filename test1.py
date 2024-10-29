@@ -22,3 +22,5 @@ directional_derivative = sum(grad * v_normalized[i] for i, grad in enumerate(gra
 print("Gradient:", gradient)
 print("Normalized direction vector:", v_normalized)
 print("Directional Derivative:", directional_derivative)
+
+print(sp.latex(directional_derivative))

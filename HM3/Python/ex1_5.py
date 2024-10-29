@@ -15,6 +15,7 @@ jacobian_matrix_1 = f.jacobian([x1, x2, x3])
 
 print("Jacobi Matrix f:")
 pprint(jacobian_matrix_1)
+print(latex(jacobian_matrix_1))
 print("")
 
 
@@ -28,6 +29,7 @@ jacobian_matrix_2 = g.jacobian([x1, x2, x3])
 print("Jacobi Matrix g:")
 #pretty_print(jacobian_matrix)
 pprint(simplify(jacobian_matrix_2))
+print(latex(simplify(jacobian_matrix_2)))
 
 
 # T 5 b ----------------------------------------------------------
@@ -45,6 +47,7 @@ jacobian_matrix_3 = f.jacobian([x1, x2, x3])
 
 print("Jacobi Matrix f:")
 pprint(jacobian_matrix_3)
+print(latex(jacobian_matrix_3))
 print("")
 
 # g
@@ -59,6 +62,7 @@ jacobian_matrix_4 = g.jacobian([x1, x2, x3])
 print("Jacobi Matrix g:")
 #pretty_print(jacobian_matrix)
 pprint(simplify(jacobian_matrix_4))
+print(latex(jacobian_matrix_4))
 print("")
 
 # h
@@ -73,3 +77,4 @@ jacobian_matrix_5 = h.jacobian([x1, x2])
 print("Jacobi Matrix h:")
 #pretty_print(jacobian_matrix)
 pprint(simplify(jacobian_matrix_5))
+print(latex(jacobian_matrix_5))

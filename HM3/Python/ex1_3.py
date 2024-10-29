@@ -13,23 +13,15 @@ d = Matrix([cos(phi), sin(phi)])
 
 gradient = [diff(f, var) for var in (x1, x2)]
 
+print("Gradient: ")
 pprint(gradient)
 
 directional_derivative = sum(grad * d[i] for i, grad in enumerate(gradient))
 
+print("Richtungsableitung: ")
 pprint(directional_derivative)
 
+print("")
 
-
-
-# g
-x1, x2, x3 = symbols('x1 x2 x3')
-g1 = (3 * x3) / (sin(-x1 + 2*x2 + x3))
-g = Matrix([g1])
-
-jacobian_matrix_2 = g.jacobian([x1, x2, x3])
-
-print("Jacobi Matrix g:")
-#pretty_print(jacobian_matrix)
-pprint(simplify(jacobian_matrix_2))
-
+print(latex(gradient))
+print(latex(directional_derivative))
